@@ -1,0 +1,6 @@
+firstName: ti	
+lastName: ti
+isRightHanded: True
+isMale: False
+birthday: 22_11_17
+section: 0

@@ -1,0 +1,6 @@
+firstName: leia
+lastName: l
+isRightHanded: True
+isMale: False
+birthday: 22_11_12
+section: 0

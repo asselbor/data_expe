@@ -1,0 +1,6 @@
+firstName: lola
+lastName: bazaretti
+isRightHanded: False
+isMale: False
+birthday: 23_11_12
+section: 0

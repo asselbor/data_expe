@@ -1,0 +1,6 @@
+firstName: Loura
+lastName: l
+isRightHanded: True
+isMale: False
+birthday: 23_11_12
+section: 0

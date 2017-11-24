@@ -1,0 +1,6 @@
+firstName: leo
+lastName: compagnon
+isRightHanded: True
+isMale: False
+birthday: 20_11_12
+section: 0

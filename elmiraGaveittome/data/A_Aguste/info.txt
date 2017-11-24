@@ -1,0 +1,6 @@
+firstName: Aguste
+lastName: A
+isRightHanded: True
+isMale: True
+birthday: 22_11_17
+section: 0

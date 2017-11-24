@@ -1,0 +1,6 @@
+firstName: Loan
+lastName: l
+isRightHanded: True
+isMale: True
+birthday: 22_11_12
+section: 0

@@ -1,0 +1,6 @@
+firstName: emi
+lastName: ee
+isRightHanded: True
+isMale: False
+birthday: 23_11_13
+section: 0

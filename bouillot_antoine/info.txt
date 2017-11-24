@@ -1,0 +1,6 @@
+firstName: antoine
+lastName: bouillot
+isRightHanded: True
+isMale: True
+birthday: 23_11_12
+section: 0
